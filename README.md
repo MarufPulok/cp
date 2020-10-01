@@ -1,1 +1,2 @@
-# My-Codes-C-CPP-
+My Daily Practice.
+(Still pretty noob tbh)
