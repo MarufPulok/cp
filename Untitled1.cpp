@@ -2,8 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"I'll Succeed!"<<endl;
-    int a,b;
-    cin>>a>>b;
-    cout<<a*b<<endl;
+    int arr[] = {1,2,3,4};
+    cout<<sizeof(arr)/sizeof(arr[0]);
 }
