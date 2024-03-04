@@ -20,7 +20,6 @@ This repository contains my solutions to competitive programming problems. I use
 
 - C++
 - Python
-- Java
 
 ## Directory Structure
 
