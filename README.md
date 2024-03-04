@@ -28,15 +28,15 @@ The repository is structured as follows:
 
 ```
 .
-├── problems
-│   ├── problem1
-│   │   ├── solution.cpp
-│   │   ├── solution.py
-│   │   └── solution.java
-│   ├── problem2
-│   │   ├── solution.cpp
-│   │   ├── solution.py
-│   │   └── solution.java
+├── judge name
+│   ├── problemtag.py
+│   │   
+│   │   
+│   │   
+│   ├── problemtag.cpp
+│   │   
+│   │   
+│   │   
 │   └── ...
 ├── README.md
 └── .gitignore
