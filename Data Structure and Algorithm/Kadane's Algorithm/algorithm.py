@@ -12,4 +12,4 @@ def kadanes(nums):
     return maxSum
 
 
-print(kadanes([4, -1, 2, -7, 3, 4]))
+print(kadanes([5,-3,5]))
