@@ -1,0 +1,7 @@
+Hashmap: dictionary in python. Refers to a data structure that stores information called values and pairs them up with unique identifiers called keys.
+
+Benefits:
+1. Custom keys are easier for software engineers to work with
+2. Search in O(1) time complexity
+
+Any key in hashmap must always be immutable.
