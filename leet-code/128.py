@@ -8,13 +8,12 @@ class Solution:
         for num in nums_set:
             if num - 1 in nums_set:
                 continue
-            else:
-                current_number = num
-                curr = 1
-                while current_number + 1 in nums_set:
-                    current_number += 1
-                    curr += 1
-                lcs = max(curr,lcs) 
+            current_number = num
+            curr = 1
+            while current_number + 1 in nums_set:
+                current_number += 1
+                curr += 1
+            lcs = max(curr,lcs) 
         
         return lcs
 
